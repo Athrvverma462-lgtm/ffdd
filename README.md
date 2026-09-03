@@ -33,22 +33,6 @@ A full ML pipeline built from scratch — custom dataset generators, a FourierML
 
 ---
 
-### 📈 Trading Bot _(coming soon)_
-
-> Algorithmic trading system — signal generation, backtesting, and live execution.
-
-Planned focus: feature engineering on market data, time-series modelling, and designing a system that knows when _not_ to trade. The hard part isn't the model; it's the decision boundary between noise and signal.
-
----
-
-### 🍳 Recipe Vision Bot _(coming soon)_
-
-> Upload a photo of ingredients + write any custom constraints → get a structured recipe.
-
-Multimodal pipeline: vision model for ingredient recognition, LLM for recipe generation, constrained by user instructions (dietary restrictions, cuisine style, cooking time). The interesting problem is making the constraints actually stick.
-
----
-
 ## 🛠 Skills
 
 | Area             | Tools                                                                   |
